@@ -1,0 +1,43 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "vijay",
+      "age": 20,
+      "address": "Udumalpet",
+      "email": "Vijay12345@gmail.com",
+      "contact": 9874563210
+    },
+    {
+      "id": 2,
+      "name": "vinay",
+      "age": 19,
+      "address": "Pollachi",
+      "email": "Vinay12345@gmail.com",
+      "contact": 9876543210
+    },
+    {
+      "id": 4,
+      "name": "Jackie Chan",
+      "age": 30,
+      "address": "Chicago",
+      "email": "jack12345@gmail.com",
+      "contact": 4515148455
+    },
+    {
+      "id": 5,
+      "name": "Ben 10",
+      "age": 17,
+      "address": "Austria",
+      "email": "ben10ultimate@gmail.com",
+      "contact": 1867915765
+    },
+    {
+      "name": "vijayaragavan kts",
+      "email": "vijayaragavankts@gmail.com",
+      "contact": "dsbsd",
+      "address": "India",
+      "id": 6
+    }
+  ]
+}
