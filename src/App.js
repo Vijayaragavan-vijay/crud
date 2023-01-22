@@ -1,6 +1,6 @@
 import axios from 'axios';
 import { useEffect, useState } from 'react';
-import { Button, ButtonGroup, Col, Container, Form, FormGroup, Navbar, Row, Table, Tablen } from 'react-bootstrap';
+import { Button, ButtonGroup, Col, Container, Form, FormGroup, Navbar, Row, Table } from 'react-bootstrap';
 import "react-toastify/dist/ReactToastify.css";
 import "bootstrap/dist/css/bootstrap.css";
 import { toast, ToastContainer } from 'react-toastify';
